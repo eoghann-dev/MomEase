@@ -14,9 +14,9 @@ The app was built with Flutter to deliver a consistent experience across devices
 
 ## Screenshots
 
-| Home | Educational Lessons | Journaling |
+| Mood Tracking | Educational Lessons | Journaling |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Lessons](screenshots/lessons.png) | ![Journaling](screenshots/journaling.png) |
+| ![Mood Tracking](screenshots/mood-tracker.jpg) | ![Lessons](screenshots/educational-lessons.jpg) | ![Journaling](screenshots/journal.jpg) |
 
 ## Features
 
