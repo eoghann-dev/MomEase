@@ -30,7 +30,7 @@ The app was built with Flutter to deliver a consistent experience across devices
 |---|---|
 | Framework | Flutter |
 | Language | Dart |
-| Data Storage | On-device Local Storage |
+| Data Storage | Firebase |
 | Tooling | Android Studio, Visual Studio Code, Git |
 
 ## Getting Started
